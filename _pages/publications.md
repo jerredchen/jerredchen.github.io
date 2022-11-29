@@ -14,6 +14,7 @@ author_profile: true
 ## Preprints
 
 **Jerred Chen** and Frank Dellaert. A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors. *arXiv preprint arXiv:2211.14432*, 2022.
+
 **Jerred Chen**, Xiangcheng Hu, Shicong Ma, Jianhao Jiao, Ming Liu, and Frank Dellaert. FAST-LIO, Then Bayesian ICP, Then GTSFM. *arXiv preprint arXiv:2210.00146*, 2022.
 
 ## Journal Papers
