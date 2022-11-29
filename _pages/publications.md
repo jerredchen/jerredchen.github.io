@@ -13,8 +13,9 @@ author_profile: true
 
 ## Preprints
 
-**Chen, Jerred**, Xiangcheng Hu, Shicong Ma, Jianhao Jiao, Ming Liu, and Frank Dellaert. "FAST-LIO, Then Bayesian ICP, Then GTSFM." arXiv preprint arXiv:2210.00146 (2022).
+**Jerred Chen** and Frank Dellaert. A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors. *arXiv preprint arXiv:2211.14432*, 2022.
+**Jerred Chen**, Xiangcheng Hu, Shicong Ma, Jianhao Jiao, Ming Liu, and Frank Dellaert. FAST-LIO, Then Bayesian ICP, Then GTSFM. *arXiv preprint arXiv:2210.00146*, 2022.
 
 ## Journal Papers
 
-Wang, Shu, Xuejian Gong, Mulang Song, Cindy Y. Fei, Stefan Quaadgras, Jianyuan Peng, Pan Zou, **Jerred Chen**, Wei Zhang, and Roger J. Jiao. "Smart dispatching and optimal elevator group control through real-time occupancy-aware deep learning of usage patterns." Advanced Engineering Informatics 48 (2021): 101286.
+Shu Wang, Xuejian Gong, Mulang Song, Cindy Y. Fei, Stefan Quaadgras, Jianyuan Peng, Pan Zou, **Jerred Chen**, Wei Zhang, and Roger J. Jiao. Smart dispatching and optimal elevator group control through real-time occupancy-aware deep learning of usage patterns. *In: Advanced Engineering Informatics*, 2021.
