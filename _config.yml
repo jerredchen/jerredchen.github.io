@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jerred Chen"
   avatar           : "profile.jpg"
-  bio              : "Fifth-year ME/CS undergraduate at Georgia Tech"
-  location         : "Atlanta, GA"
+  bio              : "DPhil student at University of Oxford"
+  location         : "Oxford, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ELYx9pkAAAAJ&hl=en"
-  email            : "jchen788@gatech.edu"
+  email            : "jerred.chen@linacre.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
