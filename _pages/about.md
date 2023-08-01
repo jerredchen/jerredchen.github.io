@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year ME/CS undergraduate student at Georgia Tech.
+I am a CS DPhil student at the University of Oxford, advised by Dr. Ronald Clark.
 
-My research interests lie in the intersection between robotics and machine learning. I am particularly interested in how robots can intelligently interpret their surrounding environment and perform complex decision making given sensor information of various modalities. Exploring this research area is twofold: moving towards Spatial AI and extending the capabilities of SLAM, as well as developing increasingly interpretable deep learning methods for forming abstract decisions. I also believe that there is a rich area of research for developing tools which combine traditional nonlinear optimization methods and probabilistic graphical models with modern deep learning approaches.
+My research interests lie in the intersection between robotics and machine learning. I am particularly interested in developing algorithms for 3D perception for robots to intelligently interpret their surrounding environment for downstream decision making. Exploring this research area is twofold: moving towards Spatial AI and extending the capabilities of SLAM, as well as developing interpretable deep learning methods. On top of providing better scene understanding capabilities, I aim for such techniques to also be robust and safe for real-world deployment.
 
 In addition to research, I am also passionate about teaching robotics and computer science.
