@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## PMP Teaching Assistant
+
+University of Oxfrd, *Oxford, UK*, Oct. 2023 - Present
+ - Demonstrated practicals for the DNN and VIS courses in Oxford’s Software Engineering Professional
+ Masters Programme. Facilitated understanding for deep learning and computer vision concepts, especially
+ for the practical applications in the real world.
+
 ## Seminar Teaching Assistant
 
 Horizon Academic, *Remote*, July 2023 - Aug 2023
