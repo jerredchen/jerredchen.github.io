@@ -9,7 +9,7 @@ author_profile: true
 
 ## Seminar Teaching Assistant
 
-Horizon Academic, *Remote*, July 2023 - Present
+Horizon Academic, *Remote*, July 2023 - Aug 2023
  - Assisted students in the Horizon Academic Seminar program, a summer program for high school students to gain research experience. Provided feedback and guidance for students on how to approach research projects on data science and machine learning.
 
 ## STEM Summer Camp Instructor
