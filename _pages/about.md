@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year DPhil (PhD) student at the University of Oxford, supervised by Prof. Ronald Clark. I study 3D computer vision, namely on robustness and efficiency of 3D deep-learning based methods. I am broadly interested in interpretability of vision models, adaptive computation, and applications to robotics.
+I am a third-year DPhil (PhD) student at the University of Oxford, supervised by [Prof. Ronald Clark](https://ronnie-clark.co.uk/). I study 3D computer vision, namely on robustness and efficiency of 3D deep-learning based methods. I am broadly interested in interpretability of vision models, adaptive computation, and applications to robotics.
