@@ -25,3 +25,5 @@ latest_posts:
 ---
 
 I am a third-year DPhil (PhD) student at the University of Oxford, supervised by [Prof. Ronald Clark](https://ronnie-clark.co.uk/). I study 3D computer vision, namely on robustness and efficiency of 3D deep-learning based methods. I am broadly interested in interpretability of vision models, adaptive computation, and applications to robotics.
+
+You can read my CV <a href="{{ '/assets/pdf/Jerred_Chen_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">here</a>.
